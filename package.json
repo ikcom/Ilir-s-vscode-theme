@@ -1,0 +1,22 @@
+{
+    "name": "ilir-s-theme",
+    "displayName": "Ilir's Theme",
+    "description": "Vscode theme by Ilir Kokollari",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ilir's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ilir's Theme-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "IlirKokollari"
+}
